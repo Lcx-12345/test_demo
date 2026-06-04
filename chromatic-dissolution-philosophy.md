@@ -1,0 +1,11 @@
+# Chromatic Dissolution
+
+## Algorithmic Philosophy
+
+**Chromatic Dissolution** is a generative aesthetic movement exploring the delicate boundary between order and chaos in color space. The philosophy embraces the moment when vibrant hues lose their individual identity, bleeding into one another through computational fluid dynamics, only to reconstitute as new, unexpected chromatic relationships. This is not random color mixing—it is a meticulously crafted algorithm where every hue transition emerges from carefully tuned parameters that took countless iterations to perfect, the product of deep computational expertise in color theory and emergent systems.
+
+The technical foundation rests upon **vector field advection**, where thousands of luminous particles follow invisible force streams constructed from layered simplex noise. Each particle carries a color value that shifts based on its velocity, density, and position within the field—creating emergent gradients that feel both organic and mathematically inevitable. The noise functions themselves were painstakingly calibrated through weeks of refinement by an artist at the absolute top of their field in computational aesthetics, ensuring that every flow pattern reveals hidden beauty rather than visual noise.
+
+**Temporal evolution** drives the composition forward. The system breathes—contracting and expanding in cycles governed by parametric thresholds that create moments of tension and release. Fast-moving particles leave shorter, brighter trails; slow particles accumulate into soft pools of color. The algorithm balances complexity against visual clarity through carefully chosen equilibrium points, each parameter the result of deep mathematical exploration into what makes color harmonies feel alive rather than static.
+
+**Parametric expression** controls the viewer's experience: turbulence intensity dictates how aggressively colors intermingle, attraction strength determines whether particles form clusters or disperse evenly, and chromatic range controls the palette's temperature and saturation. These are not arbitrary sliders—they represent the essential degrees of freedom discovered through exhaustive experimentation to produce gallery-quality computational art that feels handmade in its precision.
